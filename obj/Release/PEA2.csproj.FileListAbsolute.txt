@@ -1,0 +1,18 @@
+C:\Users\Adam\source\repos\PEA2\PEA2\bin\Release\PEA2.exe.config
+C:\Users\Adam\source\repos\PEA2\PEA2\bin\Release\PEA2.exe
+C:\Users\Adam\source\repos\PEA2\PEA2\bin\Release\PEA2.pdb
+C:\Users\Adam\source\repos\PEA2\PEA2\obj\Release\PEA2.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\PEA2\PEA2\obj\Release\PEA2.exe
+C:\Users\Adam\source\repos\PEA2\PEA2\obj\Release\PEA2.pdb
+C:\Users\Adam\source\repos\PEA2\PEA2\bin\Release\PEA2.exe.CodeAnalysisLog.xml
+C:\Users\Adam\source\repos\PEA2\PEA2\bin\Release\PEA2.exe.lastcodeanalysissucceeded
+C:\Users\Adam\source\repos\PEA2\PEA2\obj\Release\PEA2.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\PEA2 — kopia\PEA2\bin\Release\PEA2.exe.config
+C:\Users\Adam\source\repos\PEA2 — kopia\PEA2\bin\Release\PEA2.exe
+C:\Users\Adam\source\repos\PEA2 — kopia\PEA2\bin\Release\PEA2.pdb
+C:\Users\Adam\source\repos\PEA2 — kopia\PEA2\bin\Release\PEA2.exe.CodeAnalysisLog.xml
+C:\Users\Adam\source\repos\PEA2 — kopia\PEA2\bin\Release\PEA2.exe.lastcodeanalysissucceeded
+C:\Users\Adam\source\repos\PEA2 — kopia\PEA2\obj\Release\PEA2.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\PEA2 — kopia\PEA2\obj\Release\PEA2.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\PEA2 — kopia\PEA2\obj\Release\PEA2.exe
+C:\Users\Adam\source\repos\PEA2 — kopia\PEA2\obj\Release\PEA2.pdb
